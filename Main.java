@@ -32,7 +32,7 @@ public class Main {
 
         System.out.println("Removed Student: " + students.remove(1));//Gia
 
-        System.out.println("Size after remove: " + students.size()); // 2
+        System.out.println("The size after removing: " + students.size()); // 2
         System.out.println("Student at index 1: " + students.get(1)); // Duong
     }
 }
